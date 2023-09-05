@@ -21,7 +21,8 @@ exports.config = {
     // will be called from there.
     //
     specs: [
-        './test/specs/**/clickjetqa.js'
+        // './test/specs/**/clickjetqa.js'
+         './test/specs/**/loginpagepractice.js'
     ],
     // Patterns to exclude.
     exclude: [
